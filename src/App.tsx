@@ -66,7 +66,7 @@ function App() {
                 <img
                   src="/white_circle_360x360.svg"
                   alt="Bolt"
-                  className="w-[6vw] h-[6vw] hover:scale-105 transition-transform duration-200"
+                  className="w-[6vw] h-[6vw] max-h-[85px] max-w-[85px] hover:scale-105 transition-transform duration-200"
                 />                
               </a>
             </div>
